@@ -1,0 +1,384 @@
+Timestamp,IP Address,Log Entry,Type
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:20:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (2/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:54:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (3/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:29:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (4/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:27:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (5/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:31:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (6/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:39:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (7/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:05:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (8/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:53:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (9/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:08:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (10/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:22:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (11/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:03:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (12/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:58:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (13/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:13:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (14/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:08:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (15/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:26:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (16/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:05:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (17/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:07:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (18/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:35:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (19/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:22:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (20/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:42:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (21/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:21:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (22/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:43:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (23/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:17:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (24/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:02:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (25/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:02:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (26/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:40:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (27/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:09:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (28/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:57:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (29/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:32:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (30/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:21:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (31/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:26:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (32/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:11:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (33/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:19:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (34/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:47:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (35/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:02:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (36/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:46:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (37/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:23:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (38/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:09:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (39/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:17:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (40/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:31:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (41/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:42:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (42/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:12:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (43/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:53:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (44/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:01:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (45/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:15:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (46/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:42:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (47/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:51:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (48/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:08:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (49/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:06:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (50/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:26:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (51/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:07:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (52/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:43:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (53/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:18:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (54/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:15:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (55/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:26:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (56/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:05:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (57/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:14:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (58/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:39:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (59/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:00:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (60/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:04:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (61/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:49:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (62/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:10:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (63/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:40:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (64/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:36:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (65/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:21:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (66/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:39:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (67/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:12:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (68/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:12:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (69/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:49:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (70/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:12:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (71/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:26:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (72/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:22:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (73/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:19:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (74/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:13:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (75/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:04:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (76/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:35:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (77/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:55:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (78/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:59:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (79/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:51:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (80/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:34:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (81/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:36:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (82/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:15:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (83/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:15:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (84/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T09:50:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (85/86),General Alert
+2025-10-25 06:42,52.2.196.102,2025-10-25T10:17:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (86/86),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:56:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (1/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:58:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (2/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:55:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (3/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:38:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (4/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:25:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (5/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:42:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (6/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:48:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (7/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:49:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (8/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:22:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (9/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:18:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (10/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:18:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (11/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:05:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (12/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:45:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (13/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:27:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (14/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:01:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (15/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:29:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (16/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:54:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (17/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:48:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (18/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:31:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (19/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:54:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (20/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:06:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (21/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:03:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (22/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:47:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (23/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:19:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (24/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:05:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (25/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:17:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (26/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:14:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (27/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:46:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (28/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:51:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (29/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:54:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (30/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:27:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (31/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:21:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (32/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:43:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (33/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:43:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (34/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:07:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (35/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:03:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (36/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:16:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (37/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:01:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (38/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:04:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (39/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:08:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (40/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:51:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (41/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:28:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (42/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:39:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (43/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:07:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (44/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:00:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (45/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:53:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (46/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:51:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (47/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:46:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (48/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:11:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (49/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:53:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (50/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:13:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (51/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:36:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (52/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:02:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (53/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:34:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (54/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:27:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (55/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:22:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (56/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:33:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (57/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:38:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (58/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:16:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (59/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:13:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (60/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:21:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (61/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:07:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (62/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:27:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (63/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:13:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (64/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:26:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (65/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:27:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (66/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:35:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (67/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:01:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (68/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:22:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (69/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:52:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (70/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:17:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (71/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:29:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (72/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:11:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (73/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:05:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (74/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:19:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (75/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:22:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (76/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:39:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (77/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:35:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (78/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:19:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (79/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:22:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (80/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:27:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (81/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:01:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (82/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:05:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (83/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:33:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (84/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:31:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (85/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:08:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (86/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:59:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (87/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:10:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (88/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T09:46:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (89/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:07:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (90/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:25:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (91/92),General Alert
+2025-10-25 06:42,52.1.126.236,2025-10-25T10:21:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (92/92),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:16:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (1/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:34:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (2/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:59:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (3/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:35:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (4/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:29:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (5/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:55:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (6/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:24:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (7/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:31:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (8/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:39:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (9/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:36:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (10/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:52:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (11/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:30:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (12/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:45:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (13/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:30:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (14/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:49:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (15/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:26:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (16/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:47:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (17/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:22:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (18/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:57:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (19/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:42:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (20/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:59:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (21/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:45:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (22/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:28:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (23/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:08:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (24/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:02:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (25/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:43:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (26/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:31:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (27/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:44:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (28/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:04:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (29/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:14:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (30/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:02:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (31/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:41:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (32/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:42:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (33/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:31:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (34/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:36:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (35/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:13:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (36/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:14:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (37/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:26:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (38/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:02:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (39/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:23:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (40/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:48:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (41/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:11:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (42/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:04:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (43/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:27:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (44/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:28:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (45/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:59:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (46/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:06:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (47/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:54:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (48/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:18:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (49/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:10:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (50/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:02:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (51/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:54:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (52/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:41:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (53/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:02:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (54/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:28:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (55/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:17:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (56/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:01:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (57/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:12:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (58/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:25:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (59/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:19:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (60/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:56:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (61/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:52:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (62/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:09:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (63/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:33:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (64/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:42:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (65/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:22:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (66/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:25:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (67/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:30:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (68/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:42:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (69/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:59:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (70/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:29:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (71/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T09:54:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (72/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:27:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (73/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:32:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (74/75),General Alert
+2025-10-25 06:42,52.2.67.165,2025-10-25T10:01:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (75/75),General Alert
+2025-10-25 06:56,127.0.0.1,Oct 25 06:56:07 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,General Alert
+2025-10-25 06:56,127.0.0.1,Oct 25 06:56:08 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,General Alert
+2025-10-25 06:56,127.0.0.1,Oct 25 06:56:09 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,General Alert
+2025-10-25 06:56,127.0.0.1,Oct 25 06:56:11 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,General Alert
+2025-10-25 06:56,127.0.0.1,Oct 25 06:56:12 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,General Alert
+2025-10-25 06:56,127.0.0.1,Oct 25 06:56:13 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,General Alert
+2025-10-25 07:11,127.0.0.1,Oct 25 07:11:01 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,General Alert
+2025-10-25 07:11,127.0.0.1,Oct 25 07:11:02 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,General Alert
+2025-10-25 07:11,127.0.0.1,Oct 25 07:11:03 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,General Alert
+2025-10-25 07:11,127.0.0.1,Oct 25 07:11:04 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,General Alert
+2025-10-25 07:11,127.0.0.1,Oct 25 07:11:06 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,General Alert
+2025-10-25 07:11,127.0.0.1,Oct 25 07:11:07 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,General Alert
+,24.126.41.56,Oct 25 07:24:10 server sshd[12345]: Failed password for invalid user testuser from 24.126.41.56 port 22 ssh2,General Alert
+,203.119.26.15,Oct 25 07:24:10 server sshd[10000]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2,General Alert
+,88.198.24.108,Oct 25 07:24:10 server sshd[10001]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2,General Alert
+,185.199.108.153,Oct 25 07:24:10 server sshd[10002]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2,General Alert
+,90.60.255.20,Oct 25 07:24:10 server sshd[10003]: Failed password for invalid user testuser from 90.60.255.20 port 22 ssh2,General Alert
+,8.8.8.8,Oct 25 07:24:10 server sshd[10004]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2,General Alert
+,1.1.1.1,Oct 25 07:24:10 server sshd[10005]: Failed password for invalid user testuser from 1.1.1.1 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:24:10 server sshd[10006]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:24:10 server sshd[10007]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,90.60.255.20,Oct 25 07:24:10 server sshd[10008]: Failed password for invalid user testuser from 90.60.255.20 port 22 ssh2,General Alert
+,185.199.108.153,Oct 25 07:24:10 server sshd[10009]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:24:10 server sshd[10010]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,88.198.24.108,Oct 25 07:24:11 server sshd[10011]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2,General Alert
+,185.199.108.153,Oct 25 07:24:11 server sshd[10012]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2,General Alert
+,203.119.26.15,Oct 25 07:24:11 server sshd[10013]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2,General Alert
+,185.199.108.153,Oct 25 07:24:11 server sshd[10014]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2,General Alert
+,203.119.26.15,Oct 25 07:24:11 server sshd[10015]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:24:11 server sshd[10016]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,88.198.24.108,Oct 25 07:24:11 server sshd[10017]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2,General Alert
+,203.119.26.15,Oct 25 07:24:11 server sshd[10018]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:24:11 server sshd[10019]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,90.60.255.20,Oct 25 07:33:14 server sshd[10000]: Failed password for invalid user testuser from 90.60.255.20 port 22 ssh2,General Alert
+,8.8.8.8,Oct 25 07:33:14 server sshd[10001]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2,General Alert
+,203.119.26.15,Oct 25 07:33:15 server sshd[10002]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:33:15 server sshd[10003]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:33:15 server sshd[10004]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,8.8.8.8,Oct 25 07:33:15 server sshd[10005]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2,General Alert
+,8.8.8.8,Oct 25 07:33:15 server sshd[10006]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:33:15 server sshd[10007]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,185.199.108.153,Oct 25 07:33:15 server sshd[10008]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2,General Alert
+,90.60.255.20,Oct 25 07:33:15 server sshd[10009]: Failed password for invalid user testuser from 90.60.255.20 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:33:15 server sshd[10010]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,90.60.255.20,Oct 25 07:33:15 server sshd[10011]: Failed password for invalid user testuser from 90.60.255.20 port 22 ssh2,General Alert
+,203.119.26.15,Oct 25 07:33:15 server sshd[10012]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2,General Alert
+,88.198.24.108,Oct 25 07:33:15 server sshd[10013]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2,General Alert
+,185.199.108.153,Oct 25 07:33:15 server sshd[10014]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2,General Alert
+,88.198.24.108,Oct 25 07:33:15 server sshd[10015]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2,General Alert
+,185.199.108.153,Oct 25 07:33:15 server sshd[10016]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2,General Alert
+,88.198.24.108,Oct 25 07:33:15 server sshd[10017]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2,General Alert
+,1.1.1.1,Oct 25 07:33:15 server sshd[10018]: Failed password for invalid user testuser from 1.1.1.1 port 22 ssh2,General Alert
+,8.8.8.8,Oct 25 07:33:15 server sshd[10019]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2,General Alert
+,88.198.24.108,Oct 25 07:33:15 server sshd[10020]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2,General Alert
+,88.198.24.108,Oct 25 07:33:16 server sshd[10021]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2,General Alert
+,185.199.108.153,Oct 25 07:35:17 server sshd[10000]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2,General Alert
+,88.198.24.108,Oct 25 07:35:17 server sshd[10001]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:35:17 server sshd[10002]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:35:17 server sshd[10003]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:35:17 server sshd[10004]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,1.1.1.1,Oct 25 07:35:17 server sshd[10005]: Failed password for invalid user testuser from 1.1.1.1 port 22 ssh2,General Alert
+,8.8.8.8,Oct 25 07:35:17 server sshd[10006]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2,General Alert
+,203.119.26.15,Oct 25 07:35:17 server sshd[10007]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2,General Alert
+,185.199.108.153,Oct 25 07:35:17 server sshd[10008]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2,General Alert
+,88.198.24.108,Oct 25 07:35:17 server sshd[10009]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2,General Alert
+,8.8.8.8,Oct 25 07:35:17 server sshd[10010]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2,General Alert
+,8.8.8.8,Oct 25 07:35:17 server sshd[10011]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2,General Alert
+,203.119.26.15,Oct 25 07:35:17 server sshd[10012]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:35:17 server sshd[10013]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+,185.199.108.153,Oct 25 07:35:17 server sshd[10014]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2,General Alert
+,1.1.1.1,Oct 25 07:35:17 server sshd[10015]: Failed password for invalid user testuser from 1.1.1.1 port 22 ssh2,General Alert
+,88.198.24.108,Oct 25 07:35:17 server sshd[10016]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2,General Alert
+,88.198.24.108,Oct 25 07:35:17 server sshd[10017]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2,General Alert
+,8.8.8.8,Oct 25 07:35:18 server sshd[10018]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2,General Alert
+,203.119.26.15,Oct 25 07:35:18 server sshd[10019]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2,General Alert
+,203.119.26.15,Oct 25 07:35:18 server sshd[10020]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2,General Alert
+,81.2.69.142,Oct 25 07:35:18 server sshd[10021]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2,General Alert
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.2.196.102,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.1.126.236,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:42,52.2.67.165,,Brute Force
+2025-10-25 06:56,127.0.0.1,,Brute Force
+2025-10-25 07:11,127.0.0.1,,Brute Force
+2025-10-25 07:24,,,Brute Force
+2025-10-25 07:33,,,Brute Force
+2025-10-25 07:35,,,Brute Force

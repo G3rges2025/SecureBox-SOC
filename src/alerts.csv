@@ -1,0 +1,112 @@
+timestamp,ip_address,log_entry,severity
+2025-04-10 16:29:47.681961,192.168.1.101,Jan 11 22:22:22 server sshd[12345]: Failed password for invalid user admin from 192.168.1.101 port 22 ssh2,Unknown
+2025-04-10 16:40:39.161053,192.168.1.250,Thu 04/10/2025 16:40:38.57 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 16:40:39.188383,192.168.1.250,Thu 04/10/2025 16:40:38.57 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 16:40:41.190747,192.168.1.250,Thu 04/10/2025 16:40:38.57 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 16:40:41.192410,192.168.1.250,Thu 04/10/2025 16:40:38.57 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 16:40:43.194306,192.168.1.250,Thu 04/10/2025 16:40:38.57 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 16:48:05.096548,192.168.1.250,Thu 04/10/2025 16:48:04.43 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 16:48:06.099513,192.168.1.250,Thu 04/10/2025 16:48:04.43 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 16:48:07.101486,192.168.1.250,Thu 04/10/2025 16:48:04.43 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 16:48:08.104052,192.168.1.250,Thu 04/10/2025 16:48:04.43 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 16:48:09.105969,192.168.1.250,Thu 04/10/2025 16:48:04.43 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 17:02:53.684174,192.168.1.250,Thu 04/10/2025 17:02:53.51 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 17:02:54.686579,192.168.1.250,Thu 04/10/2025 17:02:53.51 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 17:02:55.689688,192.168.1.250,Thu 04/10/2025 17:02:53.51 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 17:02:56.693346,192.168.1.250,Thu 04/10/2025 17:02:53.51 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 17:02:57.696269,192.168.1.250,Thu 04/10/2025 17:02:53.51 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 17:15:23.314785,192.168.1.250,Thu 04/10/2025 17:15:22.62 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 17:15:23.316670,192.168.1.250,Thu 04/10/2025 17:15:22.62 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 17:15:24.318533,192.168.1.250,Thu 04/10/2025 17:15:22.62 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 17:15:25.321388,192.168.1.250,Thu 04/10/2025 17:15:22.62 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 17:15:26.323880,192.168.1.250,Thu 04/10/2025 17:15:22.62 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 21:26:36.807013,192.168.1.250,Thu 04/10/2025 21:26:36.38 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 21:26:37.810242,192.168.1.250,Thu 04/10/2025 21:26:36.38 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 21:26:38.813378,192.168.1.250,Thu 04/10/2025 21:26:36.38 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 21:26:39.816080,192.168.1.250,Thu 04/10/2025 21:26:36.38 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-10 21:26:40.818676,192.168.1.250,Thu 04/10/2025 21:26:36.38 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 12:38:51.620032,192.168.1.250,Fri 04/11/2025 12:38:51.56 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 12:38:52.626654,192.168.1.250,Fri 04/11/2025 12:38:51.56 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 12:38:53.629225,192.168.1.250,Fri 04/11/2025 12:38:51.56 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 12:38:54.631459,192.168.1.250,Fri 04/11/2025 12:38:51.56 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 12:38:55.633635,192.168.1.250,Fri 04/11/2025 12:38:51.56 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 12:42:00.789768,192.168.1.250,Fri 04/11/2025 12:42:00.26 server sshd[12345]: Failed password for invalid user testuser from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 12:48:55.813597,192.168.1.250,Fri 04/11/2025 12:48:54.93 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 12:48:56.816603,192.168.1.250,Fri 04/11/2025 12:48:54.93 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 12:48:57.819831,192.168.1.250,Fri 04/11/2025 12:48:54.93 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 12:48:58.822024,192.168.1.250,Fri 04/11/2025 12:48:54.93 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 12:48:59.824862,192.168.1.250,Fri 04/11/2025 12:48:54.93 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:32:06.318534,192.168.1.250,Fri 04/11/2025 16:32:05.60 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:32:06.328940,192.168.1.250,Fri 04/11/2025 16:32:05.60 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:32:07.330915,192.168.1.250,Fri 04/11/2025 16:32:05.60 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:32:08.333337,192.168.1.250,Fri 04/11/2025 16:32:05.60 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:32:09.358161,192.168.1.250,Fri 04/11/2025 16:32:05.60 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:35:57.553721,192.168.1.250,Fri 04/11/2025 16:35:56.71 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:35:57.555736,192.168.1.250,Fri 04/11/2025 16:35:56.71 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:35:58.557054,192.168.1.250,Fri 04/11/2025 16:35:56.71 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:35:59.559268,192.168.1.250,Fri 04/11/2025 16:35:56.71 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:36:00.560966,192.168.1.250,Fri 04/11/2025 16:35:56.71 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:42:14.853963,192.168.1.250,Fri 04/11/2025 16:42:13.93 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:42:15.857040,192.168.1.250,Fri 04/11/2025 16:42:13.93 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:42:16.860009,192.168.1.250,Fri 04/11/2025 16:42:13.93 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:42:17.863439,192.168.1.250,Fri 04/11/2025 16:42:13.93 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:42:18.865923,192.168.1.250,Fri 04/11/2025 16:42:13.93 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:51:22.268174,192.168.1.250,Fri 04/11/2025 16:51:21.70 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:51:22.270859,192.168.1.250,Fri 04/11/2025 16:51:21.70 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:51:23.272479,192.168.1.250,Fri 04/11/2025 16:51:21.70 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:51:24.274791,192.168.1.250,Fri 04/11/2025 16:51:21.70 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-11 16:51:25.277540,192.168.1.250,Fri 04/11/2025 16:51:21.70 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-12 19:38:20.973245,192.168.1.250,Sat 04/12/2025 19:38:20.66 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-12 19:38:21.976369,192.168.1.250,Sat 04/12/2025 19:38:20.66 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-12 19:38:22.979261,192.168.1.250,Sat 04/12/2025 19:38:20.66 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-12 19:38:23.981525,192.168.1.250,Sat 04/12/2025 19:38:20.66 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-12 19:38:24.983286,192.168.1.250,Sat 04/12/2025 19:38:20.66 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-13 22:30:04.887430,192.168.1.250,Sun 04/13/2025 22:30:03.92 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-13 22:30:05.890738,192.168.1.250,Sun 04/13/2025 22:30:03.92 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-13 22:30:06.893293,192.168.1.250,Sun 04/13/2025 22:30:03.92 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-13 22:30:07.896449,192.168.1.250,Sun 04/13/2025 22:30:03.92 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-13 22:30:08.900282,192.168.1.250,Sun 04/13/2025 22:30:03.92 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:09:20.820410,192.168.1.250,Tue 04/15/2025 16:09:20.55 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:09:21.826970,192.168.1.250,Tue 04/15/2025 16:09:20.55 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:09:22.829263,192.168.1.250,Tue 04/15/2025 16:09:20.55 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:09:23.832111,192.168.1.250,Tue 04/15/2025 16:09:20.55 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:09:24.835072,192.168.1.250,Tue 04/15/2025 16:09:20.55 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:09:39.859496,192.168.1.250,Tue 04/15/2025 16:09:39.39 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:09:40.862537,192.168.1.250,Tue 04/15/2025 16:09:39.39 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:09:41.864889,192.168.1.250,Tue 04/15/2025 16:09:39.39 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:09:42.868158,192.168.1.250,Tue 04/15/2025 16:09:39.39 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:09:43.871801,192.168.1.250,Tue 04/15/2025 16:09:39.39 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:10:32.912311,192.168.1.250,Tue 04/15/2025 16:10:32.07 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:10:33.916408,192.168.1.250,Tue 04/15/2025 16:10:32.07 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:10:34.918734,192.168.1.250,Tue 04/15/2025 16:10:32.07 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:10:35.920945,192.168.1.250,Tue 04/15/2025 16:10:32.07 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:10:36.923543,192.168.1.250,Tue 04/15/2025 16:10:32.07 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:18:15.225215,192.168.1.250,Tue 04/15/2025 16:18:14.36 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:18:15.227364,192.168.1.250,Tue 04/15/2025 16:18:14.36 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:18:16.229264,192.168.1.250,Tue 04/15/2025 16:18:14.36 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:18:17.231451,192.168.1.250,Tue 04/15/2025 16:18:14.36 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-15 16:18:18.234380,192.168.1.250,Tue 04/15/2025 16:18:14.36 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-25 14:31:54.188134,192.168.1.250,Fri 04/25/2025 14:31:53.45 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-25 14:31:54.189723,192.168.1.250,Fri 04/25/2025 14:31:53.45 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-25 14:31:55.191539,192.168.1.250,Fri 04/25/2025 14:31:53.45 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-25 14:31:56.216449,192.168.1.250,Fri 04/25/2025 14:31:53.45 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-25 14:31:57.218334,192.168.1.250,Fri 04/25/2025 14:31:53.45 server sshd[12345]: Failed password for invalid user hacker from 192.168.1.250 port 22 ssh2,Unknown
+2025-04-25 14:34:38.323829,203.0.113.45,Apr 25 14:33:33 server sshd[12345]: Failed password for invalid user evilhacker from 203.0.113.45 port 22 ssh2,Unknown
+2025-04-25 15:13:28.829319,203.0.113.45,Apr 25 14:33:33 server sshd[12345]: Failed password for invalid user evilhacker from 203.0.113.45 port 22 ssh2,Unknown
+2025-05-29 14:25:05.780469,192.168.1.105,"""Failed login from IP 192.168.1.105""",Unknown
+2025-05-29 15:59:16.589451,127.0.0.1,May 29 15:59:16 login-system[1234]: Failed password for user mary from 127.0.0.1 port 5000,Unknown
+2025-05-29 15:59:52.612926,127.0.0.1,May 29 15:59:51 login-system[1234]: Failed password for user f from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:35:11.926608,127.0.0.1,May 29 16:35:11 login-system[1234]: Failed password for user gerges  from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:39:36.095885,127.0.0.1,May 29 16:39:35 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:39:37.098544,127.0.0.1,May 29 16:39:36 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:39:38.101644,127.0.0.1,May 29 16:39:37 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:39:39.104235,127.0.0.1,May 29 16:39:38 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:39:40.106476,127.0.0.1,May 29 16:39:39 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:39:41.110271,127.0.0.1,May 29 16:39:40 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:41:36.189309,127.0.0.1,May 29 16:41:36 login-system[1234]: Failed password for user gerges1 from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:42:06.203771,127.0.0.1,May 29 16:42:05 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:42:07.206008,127.0.0.1,May 29 16:42:06 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:42:08.208224,127.0.0.1,May 29 16:42:07 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:42:09.210041,127.0.0.1,May 29 16:42:08 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:42:10.213357,127.0.0.1,May 29 16:42:09 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,Unknown
+2025-05-29 16:42:11.215349,127.0.0.1,May 29 16:42:10 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000,Unknown

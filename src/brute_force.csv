@@ -1,0 +1,19 @@
+timestamp,ip_address,event
+2025-04-10T17:02:57.696269,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-10T17:15:26.323880,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-10T21:26:40.818676,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-11T12:38:55.633635,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-11T12:48:59.824862,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-11T16:32:09.358161,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-11T16:36:00.560966,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-11T16:42:18.865923,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-11T16:51:25.277540,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-12T19:38:24.983286,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-13T22:30:08.900282,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-15T16:09:24.835072,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-15T16:09:43.871801,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-15T16:10:36.923543,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-15T16:18:18.234380,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-04-25T14:31:57.218334,192.168.1.250,Brute-force detected: 192.168.1.250 had 5+ failures within 60 seconds
+2025-05-29T16:39:40.106476,127.0.0.1,Brute-force detected: 127.0.0.1 had 5+ failures within 60 seconds
+2025-05-29T16:42:09.210041,127.0.0.1,Brute-force detected: 127.0.0.1 had 5+ failures within 60 seconds

@@ -1,0 +1,2716 @@
+[
+  {
+    "timestamp": "2025-10-25T06:36:49.186628",
+    "ip_address": "127.0.0.1",
+    "log_entry": "Oct 25 06:36:48 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000",
+    "severity": "Unknown"
+  },
+  {
+    "timestamp": "2025-10-25T06:36:50.188144",
+    "ip_address": "127.0.0.1",
+    "log_entry": "Oct 25 06:36:49 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000",
+    "severity": "Low"
+  },
+  {
+    "timestamp": "2025-10-25T06:36:51.189307",
+    "ip_address": "127.0.0.1",
+    "log_entry": "Oct 25 06:36:50 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000",
+    "severity": "Low"
+  },
+  {
+    "timestamp": "2025-10-25T06:36:52.190329",
+    "ip_address": "127.0.0.1",
+    "log_entry": "Oct 25 06:36:51 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000",
+    "severity": "Medium"
+  },
+  {
+    "timestamp": "2025-10-25T06:36:53.193539",
+    "ip_address": "127.0.0.1",
+    "log_entry": "Oct 25 06:36:52 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000",
+    "severity": "Medium"
+  },
+  {
+    "timestamp": "2025-10-25T06:36:54.195867",
+    "ip_address": "127.0.0.1",
+    "log_entry": "Oct 25 06:36:53 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000",
+    "severity": "Unknown"
+  },
+  {
+    "id": 1,
+    "timestamp": "2025-10-25T10:03:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (1/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-10-25T10:20:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (2/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 3,
+    "timestamp": "2025-10-25T09:54:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (3/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 4,
+    "timestamp": "2025-10-25T10:29:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (4/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 5,
+    "timestamp": "2025-10-25T10:27:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (5/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 6,
+    "timestamp": "2025-10-25T10:31:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (6/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 7,
+    "timestamp": "2025-10-25T10:39:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (7/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 8,
+    "timestamp": "2025-10-25T10:05:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (8/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 9,
+    "timestamp": "2025-10-25T09:53:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (9/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 10,
+    "timestamp": "2025-10-25T10:08:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (10/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 11,
+    "timestamp": "2025-10-25T10:22:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (11/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 12,
+    "timestamp": "2025-10-25T10:03:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (12/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 13,
+    "timestamp": "2025-10-25T09:58:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (13/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 14,
+    "timestamp": "2025-10-25T10:13:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (14/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 15,
+    "timestamp": "2025-10-25T10:08:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (15/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 16,
+    "timestamp": "2025-10-25T10:26:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (16/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 17,
+    "timestamp": "2025-10-25T10:05:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (17/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 18,
+    "timestamp": "2025-10-25T10:07:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (18/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 19,
+    "timestamp": "2025-10-25T10:35:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (19/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 20,
+    "timestamp": "2025-10-25T10:22:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (20/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 21,
+    "timestamp": "2025-10-25T10:42:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (21/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 22,
+    "timestamp": "2025-10-25T10:21:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (22/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 23,
+    "timestamp": "2025-10-25T09:43:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (23/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 24,
+    "timestamp": "2025-10-25T10:17:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (24/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 25,
+    "timestamp": "2025-10-25T10:02:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (25/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 26,
+    "timestamp": "2025-10-25T10:02:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (26/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 27,
+    "timestamp": "2025-10-25T10:40:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (27/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 28,
+    "timestamp": "2025-10-25T10:09:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (28/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 29,
+    "timestamp": "2025-10-25T09:57:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (29/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 30,
+    "timestamp": "2025-10-25T10:32:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (30/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 31,
+    "timestamp": "2025-10-25T10:21:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (31/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 32,
+    "timestamp": "2025-10-25T10:26:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (32/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 33,
+    "timestamp": "2025-10-25T10:11:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (33/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 34,
+    "timestamp": "2025-10-25T10:19:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (34/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 35,
+    "timestamp": "2025-10-25T09:47:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (35/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 36,
+    "timestamp": "2025-10-25T10:02:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (36/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 37,
+    "timestamp": "2025-10-25T09:46:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (37/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 38,
+    "timestamp": "2025-10-25T10:23:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (38/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 39,
+    "timestamp": "2025-10-25T10:09:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (39/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 40,
+    "timestamp": "2025-10-25T10:17:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (40/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 41,
+    "timestamp": "2025-10-25T10:31:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (41/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 42,
+    "timestamp": "2025-10-25T09:42:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (42/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 43,
+    "timestamp": "2025-10-25T10:12:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (43/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 44,
+    "timestamp": "2025-10-25T09:53:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (44/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 45,
+    "timestamp": "2025-10-25T10:01:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (45/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 46,
+    "timestamp": "2025-10-25T10:15:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (46/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 47,
+    "timestamp": "2025-10-25T10:42:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (47/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 48,
+    "timestamp": "2025-10-25T09:51:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (48/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 49,
+    "timestamp": "2025-10-25T10:08:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (49/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 50,
+    "timestamp": "2025-10-25T10:06:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (50/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 51,
+    "timestamp": "2025-10-25T10:26:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (51/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 52,
+    "timestamp": "2025-10-25T10:07:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (52/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 53,
+    "timestamp": "2025-10-25T09:43:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (53/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 54,
+    "timestamp": "2025-10-25T10:18:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (54/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 55,
+    "timestamp": "2025-10-25T10:15:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (55/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 56,
+    "timestamp": "2025-10-25T10:26:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (56/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 57,
+    "timestamp": "2025-10-25T10:05:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (57/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 58,
+    "timestamp": "2025-10-25T10:14:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (58/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 59,
+    "timestamp": "2025-10-25T10:39:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (59/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 60,
+    "timestamp": "2025-10-25T10:00:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (60/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 61,
+    "timestamp": "2025-10-25T10:04:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (61/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 62,
+    "timestamp": "2025-10-25T09:49:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (62/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 63,
+    "timestamp": "2025-10-25T10:10:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (63/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 64,
+    "timestamp": "2025-10-25T10:40:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (64/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 65,
+    "timestamp": "2025-10-25T10:36:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (65/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 66,
+    "timestamp": "2025-10-25T10:21:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (66/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 67,
+    "timestamp": "2025-10-25T10:39:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (67/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 68,
+    "timestamp": "2025-10-25T10:12:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (68/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 69,
+    "timestamp": "2025-10-25T10:12:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (69/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 70,
+    "timestamp": "2025-10-25T09:49:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (70/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 71,
+    "timestamp": "2025-10-25T10:12:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (71/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 72,
+    "timestamp": "2025-10-25T10:26:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (72/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 73,
+    "timestamp": "2025-10-25T10:22:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (73/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 74,
+    "timestamp": "2025-10-25T10:19:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (74/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 75,
+    "timestamp": "2025-10-25T10:13:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (75/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 76,
+    "timestamp": "2025-10-25T10:04:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (76/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 77,
+    "timestamp": "2025-10-25T10:35:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (77/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 78,
+    "timestamp": "2025-10-25T09:55:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (78/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 79,
+    "timestamp": "2025-10-25T09:59:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (79/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 80,
+    "timestamp": "2025-10-25T09:51:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (80/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 81,
+    "timestamp": "2025-10-25T10:34:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (81/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 82,
+    "timestamp": "2025-10-25T10:36:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (82/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 83,
+    "timestamp": "2025-10-25T10:15:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (83/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 84,
+    "timestamp": "2025-10-25T10:15:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (84/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 85,
+    "timestamp": "2025-10-25T09:50:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (85/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 86,
+    "timestamp": "2025-10-25T10:17:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (86/86)",
+    "acknowledged": false
+  },
+  {
+    "id": 87,
+    "timestamp": "2025-10-25T10:38:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Critical",
+    "description": "Brute-force detected (86 attempts)",
+    "acknowledged": false
+  },
+  {
+    "id": 88,
+    "timestamp": "2025-10-25T09:56:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (1/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 89,
+    "timestamp": "2025-10-25T09:58:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (2/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 90,
+    "timestamp": "2025-10-25T09:55:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (3/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 91,
+    "timestamp": "2025-10-25T10:38:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (4/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 92,
+    "timestamp": "2025-10-25T10:25:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (5/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 93,
+    "timestamp": "2025-10-25T10:42:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (6/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 94,
+    "timestamp": "2025-10-25T09:48:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (7/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 95,
+    "timestamp": "2025-10-25T09:49:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (8/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 96,
+    "timestamp": "2025-10-25T10:22:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (9/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 97,
+    "timestamp": "2025-10-25T10:18:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (10/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 98,
+    "timestamp": "2025-10-25T10:18:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (11/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 99,
+    "timestamp": "2025-10-25T10:05:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (12/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 100,
+    "timestamp": "2025-10-25T09:45:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (13/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 101,
+    "timestamp": "2025-10-25T10:27:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (14/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 102,
+    "timestamp": "2025-10-25T10:01:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (15/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 103,
+    "timestamp": "2025-10-25T10:29:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (16/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 104,
+    "timestamp": "2025-10-25T09:54:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (17/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 105,
+    "timestamp": "2025-10-25T09:48:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (18/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 106,
+    "timestamp": "2025-10-25T10:31:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (19/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 107,
+    "timestamp": "2025-10-25T09:54:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (20/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 108,
+    "timestamp": "2025-10-25T10:06:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (21/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 109,
+    "timestamp": "2025-10-25T10:03:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (22/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 110,
+    "timestamp": "2025-10-25T09:47:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (23/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 111,
+    "timestamp": "2025-10-25T10:19:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (24/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 112,
+    "timestamp": "2025-10-25T10:05:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (25/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 113,
+    "timestamp": "2025-10-25T10:17:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (26/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 114,
+    "timestamp": "2025-10-25T10:14:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (27/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 115,
+    "timestamp": "2025-10-25T09:46:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (28/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 116,
+    "timestamp": "2025-10-25T09:51:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (29/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 117,
+    "timestamp": "2025-10-25T09:54:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (30/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 118,
+    "timestamp": "2025-10-25T10:27:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (31/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 119,
+    "timestamp": "2025-10-25T10:21:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (32/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 120,
+    "timestamp": "2025-10-25T09:43:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (33/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 121,
+    "timestamp": "2025-10-25T09:43:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (34/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 122,
+    "timestamp": "2025-10-25T10:07:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (35/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 123,
+    "timestamp": "2025-10-25T10:03:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (36/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 124,
+    "timestamp": "2025-10-25T10:16:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (37/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 125,
+    "timestamp": "2025-10-25T10:01:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (38/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 126,
+    "timestamp": "2025-10-25T10:04:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (39/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 127,
+    "timestamp": "2025-10-25T10:08:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (40/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 128,
+    "timestamp": "2025-10-25T09:51:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (41/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 129,
+    "timestamp": "2025-10-25T10:28:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (42/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 130,
+    "timestamp": "2025-10-25T10:39:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (43/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 131,
+    "timestamp": "2025-10-25T10:07:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (44/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 132,
+    "timestamp": "2025-10-25T10:00:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (45/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 133,
+    "timestamp": "2025-10-25T09:53:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (46/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 134,
+    "timestamp": "2025-10-25T09:51:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (47/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 135,
+    "timestamp": "2025-10-25T09:46:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (48/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 136,
+    "timestamp": "2025-10-25T10:11:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (49/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 137,
+    "timestamp": "2025-10-25T09:53:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (50/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 138,
+    "timestamp": "2025-10-25T10:13:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (51/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 139,
+    "timestamp": "2025-10-25T10:36:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (52/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 140,
+    "timestamp": "2025-10-25T10:02:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (53/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 141,
+    "timestamp": "2025-10-25T10:34:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (54/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 142,
+    "timestamp": "2025-10-25T10:27:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (55/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 143,
+    "timestamp": "2025-10-25T10:22:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (56/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 144,
+    "timestamp": "2025-10-25T10:33:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (57/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 145,
+    "timestamp": "2025-10-25T10:38:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (58/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 146,
+    "timestamp": "2025-10-25T10:16:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (59/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 147,
+    "timestamp": "2025-10-25T10:13:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (60/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 148,
+    "timestamp": "2025-10-25T10:21:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (61/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 149,
+    "timestamp": "2025-10-25T10:07:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (62/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 150,
+    "timestamp": "2025-10-25T10:27:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (63/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 151,
+    "timestamp": "2025-10-25T10:13:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (64/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 152,
+    "timestamp": "2025-10-25T10:26:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (65/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 153,
+    "timestamp": "2025-10-25T10:27:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (66/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 154,
+    "timestamp": "2025-10-25T10:35:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (67/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 155,
+    "timestamp": "2025-10-25T10:01:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (68/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 156,
+    "timestamp": "2025-10-25T10:22:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (69/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 157,
+    "timestamp": "2025-10-25T09:52:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (70/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 158,
+    "timestamp": "2025-10-25T10:17:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (71/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 159,
+    "timestamp": "2025-10-25T10:29:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (72/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 160,
+    "timestamp": "2025-10-25T10:11:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (73/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 161,
+    "timestamp": "2025-10-25T10:05:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (74/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 162,
+    "timestamp": "2025-10-25T10:19:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (75/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 163,
+    "timestamp": "2025-10-25T10:22:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (76/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 164,
+    "timestamp": "2025-10-25T10:39:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (77/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 165,
+    "timestamp": "2025-10-25T10:35:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (78/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 166,
+    "timestamp": "2025-10-25T10:19:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (79/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 167,
+    "timestamp": "2025-10-25T10:22:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (80/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 168,
+    "timestamp": "2025-10-25T10:27:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (81/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 169,
+    "timestamp": "2025-10-25T10:01:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (82/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 170,
+    "timestamp": "2025-10-25T10:05:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (83/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 171,
+    "timestamp": "2025-10-25T10:33:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (84/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 172,
+    "timestamp": "2025-10-25T10:31:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (85/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 173,
+    "timestamp": "2025-10-25T10:08:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (86/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 174,
+    "timestamp": "2025-10-25T09:59:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (87/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 175,
+    "timestamp": "2025-10-25T10:10:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (88/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 176,
+    "timestamp": "2025-10-25T09:46:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (89/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 177,
+    "timestamp": "2025-10-25T10:07:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (90/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 178,
+    "timestamp": "2025-10-25T10:25:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (91/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 179,
+    "timestamp": "2025-10-25T10:21:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (92/92)",
+    "acknowledged": false
+  },
+  {
+    "id": 180,
+    "timestamp": "2025-10-25T10:32:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Critical",
+    "description": "Brute-force detected (92 attempts)",
+    "acknowledged": false
+  },
+  {
+    "id": 181,
+    "timestamp": "2025-10-25T10:16:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (1/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 182,
+    "timestamp": "2025-10-25T10:34:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (2/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 183,
+    "timestamp": "2025-10-25T09:59:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (3/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 184,
+    "timestamp": "2025-10-25T10:35:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (4/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 185,
+    "timestamp": "2025-10-25T10:29:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (5/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 186,
+    "timestamp": "2025-10-25T09:55:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (6/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 187,
+    "timestamp": "2025-10-25T10:24:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (7/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 188,
+    "timestamp": "2025-10-25T10:31:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (8/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 189,
+    "timestamp": "2025-10-25T10:39:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (9/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 190,
+    "timestamp": "2025-10-25T10:36:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (10/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 191,
+    "timestamp": "2025-10-25T09:52:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (11/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 192,
+    "timestamp": "2025-10-25T10:30:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Low",
+    "description": "Failed login attempt (12/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 193,
+    "timestamp": "2025-10-25T09:45:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (13/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 194,
+    "timestamp": "2025-10-25T10:30:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Low",
+    "description": "Failed login attempt (14/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 195,
+    "timestamp": "2025-10-25T09:49:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Failed login attempt (15/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 196,
+    "timestamp": "2025-10-25T10:26:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (16/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 197,
+    "timestamp": "2025-10-25T09:47:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (17/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 198,
+    "timestamp": "2025-10-25T10:22:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (18/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 199,
+    "timestamp": "2025-10-25T09:57:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (19/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 200,
+    "timestamp": "2025-10-25T09:42:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (20/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 201,
+    "timestamp": "2025-10-25T09:59:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (21/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 202,
+    "timestamp": "2025-10-25T09:45:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (22/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 203,
+    "timestamp": "2025-10-25T10:28:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (23/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 204,
+    "timestamp": "2025-10-25T10:08:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (24/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 205,
+    "timestamp": "2025-10-25T10:02:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (25/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 206,
+    "timestamp": "2025-10-25T09:43:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (26/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 207,
+    "timestamp": "2025-10-25T10:31:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (27/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 208,
+    "timestamp": "2025-10-25T09:44:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (28/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 209,
+    "timestamp": "2025-10-25T10:04:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (29/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 210,
+    "timestamp": "2025-10-25T10:14:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (30/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 211,
+    "timestamp": "2025-10-25T10:02:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (31/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 212,
+    "timestamp": "2025-10-25T10:41:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (32/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 213,
+    "timestamp": "2025-10-25T10:42:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (33/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 214,
+    "timestamp": "2025-10-25T10:31:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (34/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 215,
+    "timestamp": "2025-10-25T10:36:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (35/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 216,
+    "timestamp": "2025-10-25T10:13:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (36/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 217,
+    "timestamp": "2025-10-25T10:14:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (37/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 218,
+    "timestamp": "2025-10-25T10:26:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (38/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 219,
+    "timestamp": "2025-10-25T10:02:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (39/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 220,
+    "timestamp": "2025-10-25T10:23:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (40/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 221,
+    "timestamp": "2025-10-25T09:48:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (41/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 222,
+    "timestamp": "2025-10-25T10:11:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (42/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 223,
+    "timestamp": "2025-10-25T10:04:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Medium",
+    "description": "Failed login attempt (43/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 224,
+    "timestamp": "2025-10-25T10:27:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "Medium",
+    "description": "Failed login attempt (44/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 225,
+    "timestamp": "2025-10-25T10:28:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "Medium",
+    "description": "Failed login attempt (45/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 226,
+    "timestamp": "2025-10-25T09:59:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (46/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 227,
+    "timestamp": "2025-10-25T10:06:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (47/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 228,
+    "timestamp": "2025-10-25T09:54:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (48/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 229,
+    "timestamp": "2025-10-25T10:18:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (49/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 230,
+    "timestamp": "2025-10-25T10:10:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (50/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 231,
+    "timestamp": "2025-10-25T10:02:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (51/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 232,
+    "timestamp": "2025-10-25T09:54:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (52/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 233,
+    "timestamp": "2025-10-25T10:41:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (53/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 234,
+    "timestamp": "2025-10-25T10:02:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (54/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 235,
+    "timestamp": "2025-10-25T10:28:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (55/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 236,
+    "timestamp": "2025-10-25T10:17:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (56/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 237,
+    "timestamp": "2025-10-25T10:01:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (57/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 238,
+    "timestamp": "2025-10-25T10:12:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (58/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 239,
+    "timestamp": "2025-10-25T10:25:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (59/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 240,
+    "timestamp": "2025-10-25T10:19:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (60/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 241,
+    "timestamp": "2025-10-25T09:56:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (61/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 242,
+    "timestamp": "2025-10-25T09:52:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (62/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 243,
+    "timestamp": "2025-10-25T10:09:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (63/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 244,
+    "timestamp": "2025-10-25T10:33:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (64/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 245,
+    "timestamp": "2025-10-25T09:42:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (65/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 246,
+    "timestamp": "2025-10-25T10:22:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (66/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 247,
+    "timestamp": "2025-10-25T10:25:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (67/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 248,
+    "timestamp": "2025-10-25T10:30:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (68/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 249,
+    "timestamp": "2025-10-25T10:42:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (69/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 250,
+    "timestamp": "2025-10-25T09:59:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (70/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 251,
+    "timestamp": "2025-10-25T10:29:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "admin",
+    "severity": "High",
+    "description": "Failed login attempt (71/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 252,
+    "timestamp": "2025-10-25T09:54:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (72/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 253,
+    "timestamp": "2025-10-25T10:27:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (73/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 254,
+    "timestamp": "2025-10-25T10:32:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "High",
+    "description": "Failed login attempt (74/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 255,
+    "timestamp": "2025-10-25T10:01:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "root",
+    "severity": "High",
+    "description": "Failed login attempt (75/75)",
+    "acknowledged": false
+  },
+  {
+    "id": 256,
+    "timestamp": "2025-10-25T10:38:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Critical",
+    "description": "Brute-force detected (75 attempts)",
+    "acknowledged": false
+  },
+  {
+    "id": 257,
+    "timestamp": "2025-10-25T10:42:42.750773Z",
+    "source_ip": "52.4.192.156",
+    "username": "alice",
+    "severity": "Low",
+    "description": "Single failed login",
+    "acknowledged": false
+  },
+  {
+    "id": 258,
+    "timestamp": "2025-10-25T10:42:42.750773Z",
+    "source_ip": "52.4.110.69",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Single failed login",
+    "acknowledged": false
+  },
+  {
+    "id": 259,
+    "timestamp": "2025-10-25T10:42:42.750773Z",
+    "source_ip": "52.4.98.178",
+    "username": "alice",
+    "severity": "Low",
+    "description": "Single failed login",
+    "acknowledged": false
+  },
+  {
+    "id": 260,
+    "timestamp": "2025-10-25T10:42:42.750773Z",
+    "source_ip": "52.4.208.191",
+    "username": "unknown",
+    "severity": "Low",
+    "description": "Single failed login",
+    "acknowledged": false
+  },
+  {
+    "id": 261,
+    "timestamp": "2025-10-25T10:42:42.750773Z",
+    "source_ip": "52.5.33.50",
+    "username": "alice",
+    "severity": "Low",
+    "description": "Single failed login",
+    "acknowledged": false
+  }
+]{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:03:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (1/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:20:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (2/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:54:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (3/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:29:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (4/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:27:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (5/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:31:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (6/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:39:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (7/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:05:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (8/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:53:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (9/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:08:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (10/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:22:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (11/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:03:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (12/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:58:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (13/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:13:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (14/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:08:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (15/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:26:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (16/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:05:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (17/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:07:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (18/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:35:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (19/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:22:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (20/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:42:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (21/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:21:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (22/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:43:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (23/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:17:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (24/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:02:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (25/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:02:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (26/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:40:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (27/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:09:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (28/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:57:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (29/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:32:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (30/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:21:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (31/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:26:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (32/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:11:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (33/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:19:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (34/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:47:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (35/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:02:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (36/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:46:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (37/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:23:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (38/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:09:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (39/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:17:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (40/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:31:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (41/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:42:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (42/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:12:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (43/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:53:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (44/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:01:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (45/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:15:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (46/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:42:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (47/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:51:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (48/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:08:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (49/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:06:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (50/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:26:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (51/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:07:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (52/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:43:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (53/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:18:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (54/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:15:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (55/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:26:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (56/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:05:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (57/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:14:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (58/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:39:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (59/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:00:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (60/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:04:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (61/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:49:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (62/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:10:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (63/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:40:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (64/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:36:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (65/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:21:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (66/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:39:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (67/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:12:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (68/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:12:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (69/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:49:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (70/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:12:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (71/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:26:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (72/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:22:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (73/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:19:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (74/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:13:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (75/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:04:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (76/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:35:42.750773Z | WARN | 52.2.196.102 | admin | Failed login attempt (77/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:55:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (78/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:59:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (79/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:51:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (80/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:34:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (81/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:36:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (82/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:15:42.750773Z | WARN | 52.2.196.102 | root | Failed login attempt (83/86)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:15:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (84/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T09:50:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (85/86)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "log_entry": "2025-10-25T10:17:42.750773Z | WARN | 52.2.196.102 | unknown | Failed login attempt (86/86)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:56:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (1/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:58:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (2/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:55:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (3/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:38:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (4/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:25:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (5/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:42:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (6/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:48:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (7/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:49:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (8/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:22:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (9/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:18:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (10/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:18:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (11/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:05:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (12/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:45:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (13/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:27:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (14/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:01:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (15/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:29:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (16/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:54:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (17/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:48:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (18/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:31:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (19/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:54:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (20/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:06:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (21/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:03:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (22/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:47:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (23/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:19:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (24/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:05:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (25/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:17:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (26/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:14:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (27/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:46:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (28/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:51:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (29/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:54:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (30/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:27:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (31/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:21:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (32/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:43:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (33/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:43:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (34/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:07:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (35/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:03:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (36/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:16:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (37/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:01:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (38/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:04:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (39/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:08:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (40/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:51:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (41/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:28:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (42/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:39:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (43/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:07:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (44/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:00:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (45/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:53:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (46/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:51:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (47/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:46:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (48/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:11:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (49/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:53:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (50/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:13:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (51/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:36:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (52/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:02:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (53/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:34:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (54/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:27:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (55/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:22:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (56/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:33:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (57/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:38:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (58/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:16:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (59/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:13:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (60/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:21:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (61/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:07:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (62/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:27:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (63/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:13:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (64/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:26:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (65/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:27:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (66/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:35:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (67/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:01:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (68/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:22:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (69/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:52:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (70/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:17:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (71/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:29:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (72/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:11:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (73/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:05:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (74/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:19:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (75/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:22:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (76/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:39:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (77/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:35:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (78/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:19:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (79/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:22:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (80/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:27:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (81/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:01:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (82/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:05:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (83/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:33:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (84/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:31:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (85/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:08:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (86/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:59:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (87/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:10:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (88/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T09:46:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (89/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:07:42.750773Z | WARN | 52.1.126.236 | root | Failed login attempt (90/92)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:25:42.750773Z | WARN | 52.1.126.236 | unknown | Failed login attempt (91/92)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "log_entry": "2025-10-25T10:21:42.750773Z | WARN | 52.1.126.236 | admin | Failed login attempt (92/92)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:16:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (1/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:34:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (2/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:59:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (3/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:35:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (4/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:29:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (5/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:55:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (6/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:24:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (7/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:31:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (8/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:39:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (9/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:36:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (10/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:52:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (11/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:30:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (12/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:45:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (13/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:30:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (14/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:49:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (15/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:26:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (16/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:47:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (17/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:22:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (18/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:57:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (19/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:42:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (20/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:59:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (21/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:45:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (22/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:28:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (23/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:08:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (24/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:02:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (25/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:43:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (26/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:31:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (27/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:44:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (28/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:04:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (29/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:14:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (30/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:02:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (31/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:41:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (32/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:42:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (33/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:31:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (34/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:36:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (35/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:13:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (36/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:14:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (37/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:26:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (38/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:02:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (39/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:23:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (40/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:48:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (41/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:11:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (42/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:04:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (43/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:27:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (44/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:28:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (45/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:59:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (46/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:06:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (47/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:54:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (48/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:18:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (49/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:10:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (50/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:02:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (51/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:54:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (52/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:41:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (53/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:02:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (54/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:28:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (55/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:17:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (56/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:01:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (57/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:12:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (58/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:25:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (59/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:19:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (60/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:56:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (61/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:52:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (62/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:09:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (63/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:33:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (64/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:42:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (65/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:22:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (66/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:25:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (67/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:30:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (68/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:42:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (69/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:59:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (70/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:29:42.750773Z | WARN | 52.2.67.165 | admin | Failed login attempt (71/75)", "severity": "Unknown"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T09:54:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (72/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:27:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (73/75)", "severity": "Low"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:32:42.750773Z | WARN | 52.2.67.165 | unknown | Failed login attempt (74/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "log_entry": "2025-10-25T10:01:42.750773Z | WARN | 52.2.67.165 | root | Failed login attempt (75/75)", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:56:08.744076", "ip_address": "127.0.0.1", "log_entry": "Oct 25 06:56:07 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000", "severity": "Low"}
+{"timestamp": "2025-10-25T06:56:09.747761", "ip_address": "127.0.0.1", "log_entry": "Oct 25 06:56:08 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000", "severity": "Low"}
+{"timestamp": "2025-10-25T06:56:10.749804", "ip_address": "127.0.0.1", "log_entry": "Oct 25 06:56:09 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000", "severity": "Low"}
+{"timestamp": "2025-10-25T06:56:11.753293", "ip_address": "127.0.0.1", "log_entry": "Oct 25 06:56:11 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:56:12.756812", "ip_address": "127.0.0.1", "log_entry": "Oct 25 06:56:12 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000", "severity": "Medium"}
+{"timestamp": "2025-10-25T06:56:13.761309", "ip_address": "127.0.0.1", "log_entry": "Oct 25 06:56:13 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000", "severity": "Unknown"}
+{"timestamp": "2025-10-25T07:11:02.467445", "ip_address": "127.0.0.1", "log_entry": "Oct 25 07:11:01 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000", "severity": "Low"}
+{"timestamp": "2025-10-25T07:11:03.470057", "ip_address": "127.0.0.1", "log_entry": "Oct 25 07:11:02 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000", "severity": "Low"}
+{"timestamp": "2025-10-25T07:11:04.473015", "ip_address": "127.0.0.1", "log_entry": "Oct 25 07:11:03 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000", "severity": "Low"}
+{"timestamp": "2025-10-25T07:11:05.474898", "ip_address": "127.0.0.1", "log_entry": "Oct 25 07:11:04 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000", "severity": "Medium"}
+{"timestamp": "2025-10-25T07:11:06.478538", "ip_address": "127.0.0.1", "log_entry": "Oct 25 07:11:06 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000", "severity": "Medium"}
+{"timestamp": "2025-10-25T07:11:07.483916", "ip_address": "127.0.0.1", "log_entry": "Oct 25 07:11:07 login-system[1234]: Failed password for user admin from 127.0.0.1 port 5000", "severity": "Unknown"}
+{"timestamp": "2025-10-25 07:24:10", "ip_address": "24.126.41.56", "log_entry": "Oct 25 07:24:10 server sshd[12345]: Failed password for invalid user testuser from 24.126.41.56 port 22 ssh2", "severity": "Low", "geo": {"country": "United States", "city": "Gainesville", "lat": 38.8184, "lon": -77.6202}}
+{"timestamp": "2025-10-25 07:24:10", "ip_address": "203.119.26.15", "log_entry": "Oct 25 07:24:10 server sshd[10000]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2", "severity": "Low", "geo": {"country": "China", "city": "Beijing", "lat": 39.9042, "lon": 116.407}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "88.198.24.108", "log_entry": "Oct 25 07:24:10 server sshd[10001]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2", "severity": "Low", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "185.199.108.153", "log_entry": "Oct 25 07:24:10 server sshd[10002]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2", "severity": "Low", "geo": {"country": "United States", "city": "San Francisco", "lat": 37.7823, "lon": -122.391}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "90.60.255.20", "log_entry": "Oct 25 07:24:10 server sshd[10003]: Failed password for invalid user testuser from 90.60.255.20 port 22 ssh2", "severity": "Low", "geo": {"country": "France", "city": "Coursan", "lat": 43.2337, "lon": 3.05712}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "8.8.8.8", "log_entry": "Oct 25 07:24:10 server sshd[10004]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2", "severity": "Low", "geo": {"country": "United States", "city": "Ashburn", "lat": 39.03, "lon": -77.5}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "1.1.1.1", "log_entry": "Oct 25 07:24:10 server sshd[10005]: Failed password for invalid user testuser from 1.1.1.1 port 22 ssh2", "severity": "Low", "geo": {"country": "Australia", "city": "South Brisbane", "lat": -27.4766, "lon": 153.0166}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:24:10 server sshd[10006]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "Low", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:24:10 server sshd[10007]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "Low", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "90.60.255.20", "log_entry": "Oct 25 07:24:10 server sshd[10008]: Failed password for invalid user testuser from 90.60.255.20 port 22 ssh2", "severity": "Low", "geo": {"country": "France", "city": "Coursan", "lat": 43.2337, "lon": 3.05712}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "185.199.108.153", "log_entry": "Oct 25 07:24:10 server sshd[10009]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2", "severity": "Low", "geo": {"country": "United States", "city": "San Francisco", "lat": 37.7823, "lon": -122.391}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:24:10 server sshd[10010]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "Medium", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "88.198.24.108", "log_entry": "Oct 25 07:24:11 server sshd[10011]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2", "severity": "Low", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "185.199.108.153", "log_entry": "Oct 25 07:24:11 server sshd[10012]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2", "severity": "Medium", "geo": {"country": "United States", "city": "San Francisco", "lat": 37.7823, "lon": -122.391}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "203.119.26.15", "log_entry": "Oct 25 07:24:11 server sshd[10013]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2", "severity": "Low", "geo": {"country": "China", "city": "Beijing", "lat": 39.9042, "lon": 116.407}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "185.199.108.153", "log_entry": "Oct 25 07:24:11 server sshd[10014]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2", "severity": "Medium", "geo": {"country": "United States", "city": "San Francisco", "lat": 37.7823, "lon": -122.391}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "203.119.26.15", "log_entry": "Oct 25 07:24:11 server sshd[10015]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2", "severity": "Medium", "geo": {"country": "China", "city": "Beijing", "lat": 39.9042, "lon": 116.407}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:24:11 server sshd[10016]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "Medium", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "88.198.24.108", "log_entry": "Oct 25 07:24:11 server sshd[10017]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2", "severity": "Medium", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "203.119.26.15", "log_entry": "Oct 25 07:24:11 server sshd[10018]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2", "severity": "Medium", "geo": {"country": "China", "city": "Beijing", "lat": 39.9042, "lon": 116.407}}
+{"timestamp": "2025-10-25 07:24:11", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:24:11 server sshd[10019]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "High", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "90.60.255.20", "log_entry": "Oct 25 07:33:14 server sshd[10000]: Failed password for invalid user testuser from 90.60.255.20 port 22 ssh2", "severity": "Low", "geo": {"country": "France", "city": "Coursan", "lat": 43.2337, "lon": 3.05712}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "8.8.8.8", "log_entry": "Oct 25 07:33:14 server sshd[10001]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2", "severity": "Low", "geo": {"country": "United States", "city": "Ashburn", "lat": 39.03, "lon": -77.5}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "203.119.26.15", "log_entry": "Oct 25 07:33:15 server sshd[10002]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2", "severity": "Low", "geo": {"country": "China", "city": "Beijing", "lat": 39.9042, "lon": 116.407}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:33:15 server sshd[10003]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "Low", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:33:15 server sshd[10004]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "Low", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "8.8.8.8", "log_entry": "Oct 25 07:33:15 server sshd[10005]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2", "severity": "Low", "geo": {"country": "United States", "city": "Ashburn", "lat": 39.03, "lon": -77.5}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "8.8.8.8", "log_entry": "Oct 25 07:33:15 server sshd[10006]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2", "severity": "Medium", "geo": {"country": "United States", "city": "Ashburn", "lat": 39.03, "lon": -77.5}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:33:15 server sshd[10007]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "Medium", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "185.199.108.153", "log_entry": "Oct 25 07:33:15 server sshd[10008]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2", "severity": "Low", "geo": {"country": "United States", "city": "San Francisco", "lat": 37.7823, "lon": -122.391}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "90.60.255.20", "log_entry": "Oct 25 07:33:15 server sshd[10009]: Failed password for invalid user testuser from 90.60.255.20 port 22 ssh2", "severity": "Low", "geo": {"country": "France", "city": "Coursan", "lat": 43.2337, "lon": 3.05712}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:33:15 server sshd[10010]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "Medium", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "90.60.255.20", "log_entry": "Oct 25 07:33:15 server sshd[10011]: Failed password for invalid user testuser from 90.60.255.20 port 22 ssh2", "severity": "Medium", "geo": {"country": "France", "city": "Coursan", "lat": 43.2337, "lon": 3.05712}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "203.119.26.15", "log_entry": "Oct 25 07:33:15 server sshd[10012]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2", "severity": "Low", "geo": {"country": "China", "city": "Beijing", "lat": 39.9042, "lon": 116.407}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "88.198.24.108", "log_entry": "Oct 25 07:33:15 server sshd[10013]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2", "severity": "Low", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "185.199.108.153", "log_entry": "Oct 25 07:33:15 server sshd[10014]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2", "severity": "Low", "geo": {"country": "United States", "city": "San Francisco", "lat": 37.7823, "lon": -122.391}}
+{"timestamp": "2025-10-25 07:33:15", "ip_address": "88.198.24.108", "log_entry": "Oct 25 07:33:15 server sshd[10015]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2", "severity": "Low", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:33:16", "ip_address": "185.199.108.153", "log_entry": "Oct 25 07:33:15 server sshd[10016]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2", "severity": "Medium", "geo": {"country": "United States", "city": "San Francisco", "lat": 37.7823, "lon": -122.391}}
+{"timestamp": "2025-10-25 07:33:16", "ip_address": "88.198.24.108", "log_entry": "Oct 25 07:33:15 server sshd[10017]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2", "severity": "Medium", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:33:16", "ip_address": "1.1.1.1", "log_entry": "Oct 25 07:33:15 server sshd[10018]: Failed password for invalid user testuser from 1.1.1.1 port 22 ssh2", "severity": "Low", "geo": {"country": "Australia", "city": "South Brisbane", "lat": -27.4766, "lon": 153.0166}}
+{"timestamp": "2025-10-25 07:33:16", "ip_address": "8.8.8.8", "log_entry": "Oct 25 07:33:15 server sshd[10019]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2", "severity": "Medium", "geo": {"country": "United States", "city": "Ashburn", "lat": 39.03, "lon": -77.5}}
+{"timestamp": "2025-10-25 07:33:16", "ip_address": "88.198.24.108", "log_entry": "Oct 25 07:33:15 server sshd[10020]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2", "severity": "Medium", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:33:16", "ip_address": "88.198.24.108", "log_entry": "Oct 25 07:33:16 server sshd[10021]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2", "severity": "High", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:35:17", "ip_address": "185.199.108.153", "log_entry": "Oct 25 07:35:17 server sshd[10000]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2", "severity": "Low", "geo": {"country": "United States", "city": "San Francisco", "lat": 37.7823, "lon": -122.391}}
+{"timestamp": "2025-10-25 07:35:17", "ip_address": "88.198.24.108", "log_entry": "Oct 25 07:35:17 server sshd[10001]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2", "severity": "Low", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:35:17", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:35:17 server sshd[10002]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "Low", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:35:17", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:35:17 server sshd[10003]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "Low", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:35:17", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:35:17 server sshd[10004]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "Medium", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:35:17", "ip_address": "1.1.1.1", "log_entry": "Oct 25 07:35:17 server sshd[10005]: Failed password for invalid user testuser from 1.1.1.1 port 22 ssh2", "severity": "Low", "geo": {"country": "Australia", "city": "South Brisbane", "lat": -27.4766, "lon": 153.0166}}
+{"timestamp": "2025-10-25 07:35:17", "ip_address": "8.8.8.8", "log_entry": "Oct 25 07:35:17 server sshd[10006]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2", "severity": "Low", "geo": {"country": "United States", "city": "Ashburn", "lat": 39.03, "lon": -77.5}}
+{"timestamp": "2025-10-25 07:35:17", "ip_address": "203.119.26.15", "log_entry": "Oct 25 07:35:17 server sshd[10007]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2", "severity": "Low", "geo": {"country": "China", "city": "Beijing", "lat": 39.9042, "lon": 116.407}}
+{"timestamp": "2025-10-25 07:35:17", "ip_address": "185.199.108.153", "log_entry": "Oct 25 07:35:17 server sshd[10008]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2", "severity": "Low", "geo": {"country": "United States", "city": "San Francisco", "lat": 37.7823, "lon": -122.391}}
+{"timestamp": "2025-10-25 07:35:17", "ip_address": "88.198.24.108", "log_entry": "Oct 25 07:35:17 server sshd[10009]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2", "severity": "Low", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:35:17", "ip_address": "8.8.8.8", "log_entry": "Oct 25 07:35:17 server sshd[10010]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2", "severity": "Low", "geo": {"country": "United States", "city": "Ashburn", "lat": 39.03, "lon": -77.5}}
+{"timestamp": "2025-10-25 07:35:18", "ip_address": "8.8.8.8", "log_entry": "Oct 25 07:35:17 server sshd[10011]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2", "severity": "Medium", "geo": {"country": "United States", "city": "Ashburn", "lat": 39.03, "lon": -77.5}}
+{"timestamp": "2025-10-25 07:35:18", "ip_address": "203.119.26.15", "log_entry": "Oct 25 07:35:17 server sshd[10012]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2", "severity": "Low", "geo": {"country": "China", "city": "Beijing", "lat": 39.9042, "lon": 116.407}}
+{"timestamp": "2025-10-25 07:35:18", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:35:17 server sshd[10013]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "Medium", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:35:18", "ip_address": "185.199.108.153", "log_entry": "Oct 25 07:35:17 server sshd[10014]: Failed password for invalid user testuser from 185.199.108.153 port 22 ssh2", "severity": "Medium", "geo": {"country": "United States", "city": "San Francisco", "lat": 37.7823, "lon": -122.391}}
+{"timestamp": "2025-10-25 07:35:18", "ip_address": "1.1.1.1", "log_entry": "Oct 25 07:35:17 server sshd[10015]: Failed password for invalid user testuser from 1.1.1.1 port 22 ssh2", "severity": "Low", "geo": {"country": "Australia", "city": "South Brisbane", "lat": -27.4766, "lon": 153.0166}}
+{"timestamp": "2025-10-25 07:35:18", "ip_address": "88.198.24.108", "log_entry": "Oct 25 07:35:17 server sshd[10016]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2", "severity": "Medium", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:35:18", "ip_address": "88.198.24.108", "log_entry": "Oct 25 07:35:17 server sshd[10017]: Failed password for invalid user testuser from 88.198.24.108 port 22 ssh2", "severity": "Medium", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:35:18", "ip_address": "8.8.8.8", "log_entry": "Oct 25 07:35:18 server sshd[10018]: Failed password for invalid user testuser from 8.8.8.8 port 22 ssh2", "severity": "Medium", "geo": {"country": "United States", "city": "Ashburn", "lat": 39.03, "lon": -77.5}}
+{"timestamp": "2025-10-25 07:35:18", "ip_address": "203.119.26.15", "log_entry": "Oct 25 07:35:18 server sshd[10019]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2", "severity": "Medium", "geo": {"country": "China", "city": "Beijing", "lat": 39.9042, "lon": 116.407}}
+{"timestamp": "2025-10-25 07:35:18", "ip_address": "203.119.26.15", "log_entry": "Oct 25 07:35:18 server sshd[10020]: Failed password for invalid user testuser from 203.119.26.15 port 22 ssh2", "severity": "Medium", "geo": {"country": "China", "city": "Beijing", "lat": 39.9042, "lon": 116.407}}
+{"timestamp": "2025-10-25 07:35:18", "ip_address": "81.2.69.142", "log_entry": "Oct 25 07:35:18 server sshd[10021]: Failed password for invalid user testuser from 81.2.69.142 port 22 ssh2", "severity": "High", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}

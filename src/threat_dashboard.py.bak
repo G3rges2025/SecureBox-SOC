@@ -1,0 +1,170 @@
+import streamlit as st
+import pandas as pd
+import json
+import plotly.express as px
+import os
+from pathlib import Path
+from datetime import datetime, timezone
+from streamlit_autorefresh import st_autorefresh
+
+# Dynamically resolve correct file paths no matter where app is launched from
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+alerts_path = Path(os.path.join(BASE_DIR, "alerts", "alerts.json"))
+brute_path = Path(os.path.join(BASE_DIR, "alerts", "brute_force.json"))
+blocked_path = Path(os.path.join(BASE_DIR, "alerts", "blocked_ips.json"))
+
+st.title("SecureBox Threat Dashboard")
+st_autorefresh(interval=2000, key="autorefresh")
+ip_filter = st.text_input("Filter by IP Address (optional):", "")
+severity_filter = st.selectbox(
+    "Filter by Severity (optional):",
+    [
+        "",
+        "Low (1–2 failed attempts)",
+        "Medium (3–4 failed attempts)",
+        "High (5+ failed attempts)",
+        "Unknown (older logs)"
+    ]
+)
+
+severity_map = {
+    "Low (1–2 failed attempts)": "Low",
+    "Medium (3–4 failed attempts)": "Medium",
+    "High (5+ failed attempts)": "High",
+    "Unknown (older logs)": "Unknown"
+}
+
+st_autorefresh(interval=2000, key="refresh")
+
+now = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M:%S")
+alert_count = 0
+brute_count = 0
+
+if alerts_path.exists():
+    alert_count = sum(1 for _ in open(alerts_path))
+if brute_path.exists():
+    brute_count = sum(1 for _ in open(brute_path))
+
+st.markdown(f"""
+### Dashboard Stats:
+- **Total Alerts:** `{alert_count}`
+- **Brute Force Detections:** `{brute_count}`
+- **Last Updated:** `{now}`
+""")
+
+# ---- ALERTS ----
+df_alerts = pd.DataFrame()
+if alerts_path.exists():
+    with open(alerts_path, "r") as f:
+        lines = f.readlines()
+        alert_data = []
+        for line in lines:
+            if line.strip():
+                try:
+                    alert = json.loads(line)
+                    if 'severity' not in alert:
+                        alert['severity'] = "Unknown"
+                    alert_data.append(alert)
+                except json.JSONDecodeError:
+                    continue
+        df_alerts = pd.DataFrame(alert_data)
+
+    if ip_filter:
+        df_alerts = df_alerts[df_alerts['ip_address'].str.contains(ip_filter)]
+    if severity_filter:
+        df_alerts = df_alerts[df_alerts['severity'] == severity_map[severity_filter]]
+
+if not df_alerts.empty:
+    st.subheader("All Alerts")
+    st.dataframe(df_alerts[['timestamp', 'ip_address', 'log_entry', 'severity']], use_container_width=True)
+
+    ip_counts = df_alerts['ip_address'].value_counts().reset_index()
+    ip_counts.columns = ['IP Address', 'Alert Count']
+
+    st.subheader("Top Offending IPs")
+    fig = px.bar(ip_counts, x='IP Address', y='Alert Count', text='Alert Count', color='IP Address')
+    fig.update_traces(textposition='outside')
+    fig.update_layout(xaxis_tickangle=-30, height=400, showlegend=False)
+    st.plotly_chart(fig, use_container_width=True)
+
+    df_alerts['timestamp'] = pd.to_datetime(df_alerts['timestamp'])
+    timeline = df_alerts.groupby(pd.Grouper(key='timestamp', freq='1Min')).size().reset_index(name='Alerts')
+
+    st.subheader("Alert Timeline")
+    fig2 = px.line(timeline, x='timestamp', y='Alerts', title='Alert Activity Over Time')
+    fig2.update_layout(height=400)
+    st.plotly_chart(fig2, use_container_width=True)
+
+    severity_counts = df_alerts['severity'].value_counts().reset_index()
+    severity_counts.columns = ['Severity', 'Count']
+    st.subheader("Severity Breakdown")
+    fig3 = px.pie(severity_counts, names='Severity', values='Count', title='Alert Severity Distribution')
+    st.plotly_chart(fig3, use_container_width=True)
+else:
+    st.info("No alerts found.")
+
+# ---- BRUTE FORCE ----
+df_brute = pd.DataFrame()
+if brute_path.exists():
+    with open(brute_path, "r") as f:
+        brute_data = [json.loads(line) for line in f if line.strip()]
+        df_brute = pd.DataFrame(brute_data)
+
+    if ip_filter:
+        df_brute = df_brute[df_brute['ip_address'].str.contains(ip_filter)]
+
+    if not df_brute.empty:
+        st.subheader("Brute Force Detections")
+        st.dataframe(df_brute, use_container_width=True)
+    else:
+        st.info("No brute-force alerts yet.")
+else:
+    st.info("Brute-force alert file not found.")
+
+# ---- BLOCKED IPS ----
+if blocked_path.exists():
+    try:
+        with open(blocked_path, "r") as f:
+            blocked_ips = json.load(f)
+    except json.JSONDecodeError:
+        blocked_ips = []
+
+    if blocked_ips:
+        st.subheader("Blocked IPs (Simulated Firewall)")
+        df_blocked = pd.DataFrame(blocked_ips, columns=["Blocked IP"])
+        if ip_filter:
+            df_blocked = df_blocked[df_blocked['Blocked IP'].str.contains(ip_filter)]
+        st.dataframe(df_blocked, use_container_width=True)
+    else:
+        st.info("No IPs are currently blocked.")
+else:
+    st.info("Blocked IPs file not found.")
+
+# ---- EXPORTS ----
+st.markdown("---")
+st.subheader("Export Logs")
+
+col1, col2 = st.columns(2)
+
+with col1:
+    if not df_alerts.empty:
+        df_alerts.to_csv("alerts.csv", index=False)
+        with open("alerts.csv", "rb") as f:
+            st.download_button("Download Alerts CSV", f, "alerts.csv", "text/csv")
+
+with col2:
+    if not df_brute.empty:
+        df_brute.to_csv("brute_force.csv", index=False)
+        with open("brute_force.csv", "rb") as f:
+            st.download_button("Download Brute Force CSV", f, "brute_force.csv", "text/csv")
+
+if not df_alerts.empty or not df_brute.empty:
+    df_alerts['Type'] = 'General Alert'
+    df_brute['Type'] = 'Brute Force'
+    df_combined = pd.concat([df_alerts, df_brute], ignore_index=True)
+    df_combined = df_combined[['timestamp', 'ip_address', 'log_entry', 'Type']]
+    df_combined.columns = ['Timestamp', 'IP Address', 'Log Entry', 'Type']
+    df_combined['Timestamp'] = pd.to_datetime(df_combined['Timestamp']).dt.strftime('%Y-%m-%d %H:%M')
+    df_combined.to_csv("all_logs.csv", index=False)
+    with open("all_logs.csv", "rb") as f:
+        st.download_button("Download All Logs", f, "all_logs.csv", "text/csv")

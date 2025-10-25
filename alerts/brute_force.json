@@ -1,0 +1,83 @@
+[
+  {
+    "id": 87,
+    "timestamp": "2025-10-25T10:38:42.750773Z",
+    "source_ip": "52.2.196.102",
+    "username": "unknown",
+    "severity": "Critical",
+    "description": "Brute-force detected (86 attempts)",
+    "acknowledged": false
+  },
+  {
+    "id": 180,
+    "timestamp": "2025-10-25T10:32:42.750773Z",
+    "source_ip": "52.1.126.236",
+    "username": "unknown",
+    "severity": "Critical",
+    "description": "Brute-force detected (92 attempts)",
+    "acknowledged": false
+  },
+  {
+    "id": 256,
+    "timestamp": "2025-10-25T10:38:42.750773Z",
+    "source_ip": "52.2.67.165",
+    "username": "unknown",
+    "severity": "Critical",
+    "description": "Brute-force detected (75 attempts)",
+    "acknowledged": false
+  }
+]{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.338187", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.345105", "ip_address": "52.2.196.102", "event": "Brute-force detected: 52.2.196.102 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.1.126.236", "event": "Brute-force detected: 52.1.126.236 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.360790", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:42:43.376475", "ip_address": "52.2.67.165", "event": "Brute-force detected: 52.2.67.165 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T06:56:12.756812", "ip_address": "127.0.0.1", "event": "Brute-force detected: 127.0.0.1 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25T07:11:06.478538", "ip_address": "127.0.0.1", "event": "Brute-force detected: 127.0.0.1 had 5+ failures within 60 seconds"}
+{"timestamp": "2025-10-25 07:24:11", "source_ip": "81.2.69.142", "failed_attempts": 5, "severity": "High", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}
+{"timestamp": "2025-10-25 07:33:16", "source_ip": "88.198.24.108", "failed_attempts": 5, "severity": "High", "geo": {"country": "Germany", "city": "Falkenstein", "lat": 50.4777, "lon": 12.3649}}
+{"timestamp": "2025-10-25 07:35:18", "source_ip": "81.2.69.142", "failed_attempts": 5, "severity": "High", "geo": {"country": "United Kingdom", "city": "Marston Moretaine", "lat": 52.0713, "lon": -0.54363}}

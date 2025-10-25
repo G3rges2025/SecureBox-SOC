@@ -1,0 +1,100 @@
+import time
+import re
+import json
+import os
+from datetime import datetime
+from collections import defaultdict, deque
+
+# Set up full paths relative to project root
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+LOG_PATH = os.path.join(BASE_DIR, "logs", "sample.log")
+ALERT_LOG_PATH = os.path.join(BASE_DIR, "alerts", "alerts.json")
+BRUTE_FORCE_LOG_PATH = os.path.join(BASE_DIR, "alerts", "brute_force.json")
+
+# Ensure alerts folder exists
+os.makedirs(os.path.dirname(ALERT_LOG_PATH), exist_ok=True)
+
+# Regex for IP extraction
+ip_regex = re.compile(r'\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b')
+
+# Brute-force detection setup
+failed_attempts = defaultdict(deque)
+MAX_ATTEMPTS = 5
+TIME_WINDOW = 60  # seconds
+
+def extract_ip(log_line):
+    match = ip_regex.search(log_line)
+    return match.group() if match else "IP not found"
+
+def determine_severity(ip):
+    count = len(failed_attempts[ip])
+    if count >= 5:
+        return "High"
+    elif count >= 3:
+        return "Medium"
+    elif count >= 1:
+        return "Low"
+    return "Unknown"
+
+def log_alert(alert_data, alert_file):
+    with open(alert_file, "a") as f:
+        json.dump(alert_data, f)
+        f.write('\n')
+
+def log_brute_force(ip, timestamp, alert_file):
+    alert_data = {
+        "timestamp": timestamp.isoformat(),
+        "ip_address": ip,
+        "event": f"Brute-force detected: {ip} had {MAX_ATTEMPTS}+ failures within {TIME_WINDOW} seconds"
+    }
+    with open(alert_file, "a") as f:
+        json.dump(alert_data, f)
+        f.write('\n')
+    print(f"[BLOCK] Simulated block applied to IP: {ip}")
+
+def check_brute_force(ip, current_time):
+    timestamps = failed_attempts[ip]
+    timestamps.append(current_time)
+
+    # Remove timestamps older than TIME_WINDOW
+    while timestamps and (current_time - timestamps[0]).total_seconds() > TIME_WINDOW:
+        timestamps.popleft()
+
+    if len(timestamps) >= MAX_ATTEMPTS:
+        print(f"[BRUTE FORCE DETECTED] {ip} had {len(timestamps)} failed attempts within {TIME_WINDOW} seconds")
+        log_brute_force(ip, current_time, BRUTE_FORCE_LOG_PATH)
+        failed_attempts[ip] = deque()
+
+def monitor_log(file_path, alert_file):
+    print("[INFO] Log reader started and watching for activity...")
+    try:
+        with open(file_path, "r") as f:
+            f.seek(0, 2)
+            while True:
+                line = f.readline()
+                if not line:
+                    time.sleep(1)
+                    continue
+                if "Failed" in line or "unauthorized" in line.lower():
+                    ip = extract_ip(line)
+                    now = datetime.now()
+
+                    severity = determine_severity(ip)
+                    alert_data = {
+                        "timestamp": now.isoformat(),
+                        "ip_address": ip,
+                        "log_entry": line.strip(),
+                        "severity": severity
+                    }
+
+                    print(f"[ALERT] {alert_data}")
+                    log_alert(alert_data, alert_file)
+
+                    if ip != "IP not found":
+                        check_brute_force(ip, now)
+    except FileNotFoundError:
+        print(f"[ERROR] Log file not found: {file_path}")
+        print("[HINT] Make sure sample.log exists in /logs and that the login page is writing to it.")
+
+if __name__ == "__main__":
+    monitor_log(LOG_PATH, ALERT_LOG_PATH)
